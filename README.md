@@ -1,2 +1,2 @@
 # MARKDOWNS
-General notes of concepts I am learning
+General notes on different concepts
