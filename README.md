@@ -8,7 +8,7 @@ Table of contents
 1. [ACID properties](#ACID-properties)
 2. [Distributed Systems](#distributed-systems)
 3. [Functional-vs-Non-Functional requirements](#Functional-vs-Non-Functional-Requirements)
-4. [CAP Theorem](#CAP-theorem(Brewer's-Theorem))
+4. [CAP Theorem](#CAP-theorem-(Brewer's-Theorem))
 5. [SQL and DB general practice](#SQL-PRACTICE)
 
 # ACID properties
