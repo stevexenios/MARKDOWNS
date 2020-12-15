@@ -10,7 +10,7 @@ Table of contents
 1. [ACID properties](#ACID-properties)
 2. [Distributed Systems](#distributed-systems)
 3. [Functional-vs-Non-Functional requirements](#Functional-vs-Non-Functional-Requirements)
-4. [CAP Theorem](#CAP-theorem-(Brewer's-Theorem))
+4. [CAP-Theorem-or-Brewers-Theorem](#CAP-Theorem-or-Brewers-Theorem)
 5. [SQL and DB general practice](#SQL-PRACTICE)
 
 # ACID properties
@@ -153,7 +153,7 @@ Non-functional requirements allows you to impose constraints or restrictions on 
 
 1. [Guru99](https://ww.guru99.com/functional-vs-non-functional-requirements.html )
 
-# CAP Theorem (Brewer's Theorem)
+# CAP-Theorem-or-Brewer-Theorem
 
 An important theorem in designing distributed systems. Echoes that there is no simultaneous guarantee of **CAP (consistency, availability, and partition tolerance)**; in essence, something has to give.
 
