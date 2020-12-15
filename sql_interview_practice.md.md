@@ -35,7 +35,7 @@
 
 ###### 7. List the different type of joins?
 
-![SQL joins](./images/SQL_JOINS.jpg)
+![SQL joins](images/SQL_JOINS.jpg)
 
 * Inner Join
 * Right Join

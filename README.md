@@ -8,7 +8,7 @@ Table of contents
 1. [ACID properties](#ACID-properties)
 2. [Distributed Systems](#distributed-systems)
 3. [Functional-vs-Non-Functional requirements](#Functional-vs-Non-Functional-Requirements)
-4. [CAP Theorem](#CAP-theorem)
+4. [CAP Theorem](#CAP-theorem(Brewer's-Theorem))
 5. [SQL and DB general practice](#SQL-PRACTICE)
 
 # ACID properties
@@ -247,7 +247,7 @@ To ensure availability, we can add replicas for the data. As to components of th
 
 ###### 7. List the different type of joins?
 
-![SQL joins](./images/SQL_JOINS.jpg)
+![SQL joins](images/SQL_JOINS.jpg)
 
 * Inner Join
 * Right Join
