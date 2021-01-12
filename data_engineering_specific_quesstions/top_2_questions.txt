@@ -1,0 +1,106 @@
+Source: https://www.indeed.com/career-advice/interviewing/data-engineer-interview-questions
+
+50 Data Engineer Interview Questions to Help You Prepare
+October 14, 2020
+Receiving an interview request for a data engineer job is a key step toward obtaining the career you want. A job interview gives you a chance to impress your potential employer and encourage them to view you as an excellent candidate. To get ready for your job interview, think over your answers to both general questions and in-depth inquiries into your experience and background. In this article, we discuss 50 common data engineer interview questions and share some sample answers to help you prepare.
+
+General questions
+The following general interview questions allow the interviewers to learn about you and your interest in both the position and the company:
+
+Tell us about yourself.
+How would you describe yourself?
+What is your greatest strength?
+What is your biggest weakness?
+What motivates you to work hard?
+How do you handle pressure at work?
+What causes you stress at work and how do you manage it?
+Why are you leaving your current role?
+What are some positive things your last manager would say about you?
+What do you find interesting about this position?
+Why do you want to work for our organization?
+Why should we hire you to work here?
+What makes you unique?
+What makes you the best candidate for this position?
+What salary range are you expecting?
+Do you have questions for us?
+Related: 125 Common Interview Questions and Answers (with Tips)
+
+Questions about experience and background
+The following background and experience questions help the hiring team evaluate your qualifications and assess whether your goals are in line with the organization's values and objectives:
+
+What would you bring to our organization?
+What do you like most about your current job?
+What do you like least about your current position?
+Tell us about your data engineering work experience.
+What do you appreciate most about data engineering?
+What do you enjoy least about data engineering?
+Can you describe your biggest accomplishment?
+Share one of your biggest challenges and how you overcame it.
+What is your preferred work environment?
+Are you comfortable with reporting to superiors younger than you?
+Do you consider yourself a leader?
+What is your definition of professional success?
+How do you envision your career path?
+Where do you see yourself in five years?
+Related: 12 Tough Interview Questions and Answers
+
+In-depth questions
+The following interview questions enable the hiring manager to gain a comprehensive understanding of your competencies and assess how you would respond to issues that may arise at work:
+
+What are the most important skills for a data engineer to have?
+What data engineering platforms and software are you familiar with?
+Which computer languages can you use fluently?
+Do you tend to focus on pipelines, databases or both?
+How do you create reliable data pipelines?
+Tell us about a distributed system you've built. How did you engineer it?
+Tell us about a time you found a new use case for an existing database. How did your discovery impact the company positively?
+Do you have any experience with data modeling?
+What common data engineering maxim do you disagree with?
+Do you have a data engineering philosophy?
+What is a data-first mindset?
+How do you handle conflict with coworkers? Can you give us an example?
+Can you recall a time when you disagreed with your supervisor? How did you handle it?
+Data engineer interview questions with sample answers
+Below are seven of the most common job interview questions for data engineers. Review the explanation and sample responses as you think of your own answers to prepare for your interview.
+
+What is data engineering?
+What are the essential qualities of a data engineer?
+Which frameworks and applications are critical for data engineers?
+Can you explain the design schemas relevant to data modeling?
+Do you consider yourself database- or pipeline-centric?
+What is the biggest professional challenge you have overcome as a data engineer?
+As a data engineer, how would you prepare to develop a new product?
+1. What is data engineering?
+Interviewers frequently bring this question up to assess whether you can discuss your field in an understandable and competent way. When you answer, try to include a general summary as well as a brief discussion of how data engineers collaborate with colleagues.
+
+Example: “Data engineering powers the collection and processing of information through a combination of desktop software, mobile applications, cloud-based servers and physical infrastructure. Effective data engineering requires careful construction, strong pipelines and smart collaborators. Data engineers are essential partners of data scientists, who analyze and use the information we collect.”
+
+2. What are the essential qualities of a data engineer?
+An interviewer might ask this question to determine whether your idea of a skilled professional matches the company's assessment. In your answer, discuss the skills and abilities that you think are essential for data engineers. Try to mention specific instances in which a data engineer would apply these skills.
+
+Example: “A successful data engineer needs to know how to architect distributed systems and data stores, create dependable pipelines and combine data sources effectively. Data engineers also need to be able to collaborate with team members and colleagues from other departments. To accomplish all of these tasks, a data engineer needs strong math and computing skills, critical thinking and problem solving skills and communication and leadership capabilities.”
+
+3. Which frameworks and applications are critical for data engineers?
+Hiring managers often ask this question to assess your understanding of the key requirements for the job and to find out whether you have essential technical skills. When you answer, be as specific as possible and mention the names of frameworks and applications. Consider mentioning your experience level with each as well.
+
+Example: “Data engineers have to be proficient in SQL, Amazon Web Services, Hadoop and Python. I am fluent with all of these frameworks and I am also familiar with Tableau, Java, Hive and Apache Spark. I embrace every opportunity to learn new frameworks.”
+
+4. Can you explain the design schemas relevant to data modeling?
+Hiring teams may question you about design schemas as a way to test your knowledge of the fundamentals of data engineering. When you respond, do your best to explain the concept clearly and concisely.
+
+Example: “Data modeling involves two schemas, star and snowflake. Star schema includes dimension tables that are connected to a fact table. Snowflake schema includes a similar fact table and dimension tables with snowflake-like layers.”
+
+5. Do you consider yourself database- or pipeline-centric?
+Interviewers frequently bring this question up to determine whether you have a focus area and if it matches with the needs of the company. In your response, provide an honest assessment of your specialization. Try your best to reflect the whole scope of your technical knowledge and experience, especially if you have the skills for both data engineering specialties.
+
+Example: “Because I usually opt to work for smaller companies, I am a generalist who is equally comfortable with a database or pipeline focus. Since I specialize in both components, I have comprehensive knowledge of distributed systems and data warehouses.”
+
+6. What is the biggest professional challenge you have overcome as a data engineer?
+Hiring managers often ask this question to learn how you address difficulties at work. Rather than learning about the details of these difficulties, they typically want to determine how resilient you are and how you process what you learn from challenging situations. When you answer, try using the STAR method, which involves stating the situation, task, action and result of the circumstances.
+
+Example: “Last year, I served as the lead data engineer for a project that had insufficient internal support. As a result, my portion of project fell behind schedule and I risked disciplinary measures. After my team missed the first deadline, I took the initiative to meet with the project manager and proposed possible solutions. Based on my suggestions, the company assigned additional personnel to my team and we were able to complete the project successfully within the original timeline.”
+
+Related: How to Use the STAR Interview Response Technique
+
+7. As a data engineer, how would you prepare to develop a new product?
+Hiring teams may question you about product development in an effort to determine how much you know about the product cycle and the data engineer's role in it. When you respond, mention some of the ways your knowledge could streamline the development process and some of the questions you would consider to make the best possible product.

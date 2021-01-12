@@ -1,0 +1,106 @@
+Source: https://365datascience.com/data-engineer-interview-questions/
+
+Blog / Career Advice / Data Engineer Interview Questions And Answers 2020
+ 
+
+data-engineer-interview-questions-and-answers
+Data engineer interview questions are a major component of your interview preparation process. However, if you want to maximize your chances of landing a data engineer job, you must also be aware of how the data engineer interview process is going to unfold.
+
+This article is designed to help you navigate the data architect interview landscape with confidence. Here’s what you will learn:
+
+the most important skills required for a data engineer position;
+a list of real data engineer questions and answers (practice makes perfect, right?);
+how the data engineer interview process goes down in 3 leading companies.
+As a bonus, we’ll reveal 3 common mistakes you should avoid at all costs during your data engineer interview questions preparation.
+
+But first things first…
+
+What skills do you need to become a data engineer?
+Skills and qualifications are the most crucial part of your preparation for a data engineer position. Here are the top 5 must-have skills for anyone aiming for a data engineer career:
+
+Knowledge of data modeling for both data warehousing and Big Data;
+Experience in ETLs;
+Experience in the Big Data space (Hadoop Stack like M/R, HDFS, Pig, Hive, etc.);
+SQL and Python;
+Mathematics;
+Data visualization skills (e.g., Tableau or PowerBI).
+If you need to improve your skillset to launch a successful career as a data engineer, you can register for the complete 365 Data Science Program today. Start with the fundamentals with our Statistics, Maths, and Excel courses, and build up step-by-step experience with SQL, Python, R, Power BI and Tableau.
+
+What are the most common data engineer interview questions you should be familiar with?
+General Data Engineer Interview Questions
+Usually, interviewers start the conversation with a few more general questions. Their aim is to take the edge off and prepare you for the more complex data engineering questions ahead. Here are a few that will help you get off to a flying start.
+
+1. How did you choose a career in data engineering?
+How to answer
+The answer to this question helps the interviewer learn more about your education, background and work experience. You might have chosen the data engineering field as a natural continuation of your degree in Computer Science or Information Systems. Maybe you’ve had similar jobs before, or you’re transitioning from an entirely different career field. In any case, don’t shy away from sharing your story and highlighting the skills you’ve gained throughout your studies and professional path.
+
+Answer Example
+“Ever since I was a child, I have always had a keen interest in computers. When I reached senior year in high school, I already knew I wanted to pursue a degree in Information Systems. While in college, I took some math and statistics courses which helped me land my first job as a Data Analyst for a large healthcare company. However, as much as I liked applying my math and statistical knowledge, I wanted to develop more of my programming and data management skills. That’s when I started looking into data engineering. I talked to experts in the field and took online courses to learn more about it. I discovered it was the ideal career path for my combination of interests and skills. Luckily, within a couple of months, a data engineering position opened up in my company and I had the chance to transfer without a problem.”
+
+2. What do you think is the hardest aspect of being a data engineer?
+How to answer
+Smart hiring managers know not all aspects of a job are easy. So, don’t hesitate to answer this question honestly. You might think its goal is to make you pinpoint a weakness. But, in fact, what the interviewer wants to know is how you managed to resolve something you struggled with.
+
+Answer Example
+“As a data engineer, I’ve mostly struggled with fulfilling the needs of all the departments within the company. Different departments often have conflicting demands. So, balancing them with the capabilities of the company’s infrastructure has been quite challenging. Nevertheless, this has been a valuable learning experience for me, as it’s given me the chance to learn how these departments work and their role in the overall structure of the company.”
+
+3. Can you think of a time where you experienced an unexpected problem with bringing together data from different sources? How did you eventually solve it?
+How to answer
+This question gives you the perfect opportunity to demonstrate your problem-solving skills and how you respond to sudden changes of the plan. The question could be data-engineer specific, or a more general one about handling challenges. Even if you don’t have particular experience, you can still give a satisfactory hypothetical answer.
+
+Answer Example
+“In my previous work experience, my team and I have always tried to be ready for any issues that may arise during the ETL process. Nevertheless, every once in a while, a problem will occur completely out of the blue. I remember when that happened while I was working for a franchise company. Its system required for data to be collected from various systems and locations. So, when one of the franchises changed their system without prior notification, this created quite a few loading issues for their store’s data. To deal with this issue, first I came up with a short-term solution to get the essential data into the company’s corporate wide-reporting system. Once I took care of that, I started developing a long-term solution to prevent such complications from happening again.”
+
+4. Data engineers collaborate with data architects on a daily basis. What makes your job as a data engineer different?
+How to Answer
+With this question, the interviewer is most probably trying to see if you understand how job roles differ within a data warehouse team. However, there is no “right” or “wrong” answer to this question. The responsibilities of both data engineer and data architects vary (or overlap) depending on the requirements of the company/database maintenance department you work for.
+
+Answer Example
+“Based on my work experience, the differences between the two job roles vary from company to company. Yes, it’s true that data engineers and data architects work closely together. Still, their general responsibilities differ. Data architects are in charge of building the data architecture of the company’s data systems and managing the servers. They see the full picture when it comes to the dissemination of data throughout the company. In contrast, data engineers focus on testing and maintaining of the architecture, rather than on building it. Plus, they make sure that the data available to analysts within the organization is reliable and of the necessary high quality.”
+
+5. Can you tell us a bit more about the data engineer certifications you have earned?
+How to Answer
+Certifications prove to your future employer that you’ve invested time and effort to get formal training for a skill, rather than just pick it up on the job. The number of certificates under your belt also shows how dedicated you are to expanding your knowledge and skillset. Recency is also important, as technology in this field is rapidly evolving, and upgrading your skills on a regular basis is vital. However, if you haven’t completed any courses or online certificate programs, you can mention the trainings provided by past employers or the current company you work for. This will indicate that you’re up-to-date with the latest advancements in the data engineering sphere.
+
+Answer Example
+“Over the past couple of years, I’ve become a certified Google Professional Data Engineer, and I’ve also earned a Cloudera Certified Professional credential as a Data Engineer. I’m always keeping up-to-date with new trainings in the field. I believe that’s the only way to constantly increase my knowledge and upgrade my skillset. Right now, I’m preparing for the IBM Big Data Engineer Certificate Exam. In the meantime, I try to attend big data conferences with recognized speakers, whenever I have the chance.”
+
+Technical Data Engineer Interview Questions
+The technical data engineer questions help the interviewer assess 2 things: whether you have the skills necessary for the role; and if you’re experienced with (or willing to advance in) the systems and programs utilized in the company. So, here’s a list of technical questions you can practice with.
+
+6. Which ETL tools have you worked with? Do you have a favorite one? If so, why?
+How to Answer
+The hiring manager needs to know that you’re no stranger to the ETL process and you have some experience with different ETL tools. So, once you enumerate the tools you’ve worked with and point out the one you favor, make sure to substantiate your preference in a way that demonstrates your expertise in the ETL process.
+
+Answer Example
+“I have experience with various ETL tools, such as IBM Infosphere, SAS Data Management, and SAP Data Services. However, if I have to pick one as my favorite, that would be Informatica’s PowerCenter. In my opinion, what makes it the best out there is its efficiency. PowerCenter has a very top performance rate and high flexibility which, I believe, are the most important properties of an ETL tool. They guarantee access to the data and smoothly running business data operations at all times, even if changes in the business or its structure take place.”
+
+7. Have you built data systems using the Hadoop framework? If so, please describe a particular project you’ve worked on.
+How to Answer
+Hadoop is a tool that many hiring managers ask about during interviews. You should know that whenever there’s a specific question like that, it’s highly likely that you’ll be required to use this particular tool on the job. So, to prepare, do your homework and make sure you’re familiar with the languages and tools the company uses. More often than not, you can find that information in the job description. If you’re experienced with the tool, give a detailed explanation of your project to highlight your skills and knowledge of the tool’s capabilities. In case you haven’t worked with this tool, the least you could do is do some research to demonstrate some basic familiarity with the tool’s attributes.
+
+Answer Example
+“I’ve used the Hadoop framework while working on a team project focused on increasing data processing efficiency. We chose to implement it because of its ability to increase data processing speeds while, at the same time, preserving quality through its distributed processing. We also decided to implement Hadoop because of its scalability, as the company I worked for expected a considerable increase in its data processing needs over the next few months. In addition, Hadoop is an open-source network which made it the best option, keeping in mind the limited resources for the project. Not to mention that it’s Java-based, so it was easy to use by everyone on the team and no additional training was required.”
+
+8. Do you have experience with a cloud computing environment? What are the pros and cons of working in one?
+How to Answer
+Data engineers are well aware that there are pros and cons to cloud computing. That said, even if you lack prior experience working in cloud computing, you must be able to demonstrate a certain level of understanding of its advantages and shortcomings. This will show the hiring manager that you’re aware of the present technological issues in the industry. Plus, if the position you’re interviewing for requires using a cloud computing environment, the hiring manager will know that you’ve got a basic idea of the possible challenges you might face.
+
+Answer Example
+“I haven’t had the chance to work in a cloud computing environment yet. However, I have a good overall idea of its pros and cons. On the plus side, cloud computing is more cost-effective and reliable. Most providers sign agreements that guarantee a high level of service availability which should decrease downtimes to a minimum. On the negative side, the cloud computing environment may compromise data security and privacy, as the data is kept outside the company. Moreover, your control would be limited, as the infrastructure is managed by the service provider. All things considered, cloud computing could be both right or wrong choice for a company, depending on its IT department structure and the resources at hand.”
+
+9. In your line of work, have you introduced new data analytics applications? If so, what challenges did you face while introducing and implementing them?
+How to Answer
+New data applications are high-priced, so introducing such within a company doesn’t happen that often. Nevertheless, when a company decides to invest in new data analytics tools, this could turn into quite an ambitious project. The new tools must be connected to the current systems in the company, and the employers who are going to use them should be formally trained. Additionally, maintenance of the tools should be administered and carried out on a regular basis. So, if you have prior experience, point out the obstacles you’ve overcome or list some scenarios of what could have gone wrong. In case you lack relevant experience, describe what you know about the process in detail. This will let the hiring manager know that, if a problem arises, you have the basic know-how that would help you through.
+
+Answer Example
+“As a data engineer, I’ve taken part in the introduction of a brand-new data analytics application in the last company I’ve worked for. The whole process requires a well-thought-out plan to ensure the smoothest transition possible. However, even the most careful planning can’t rule out unforeseen issues. One of them was the high demand for user licenses which went beyond our expectations. The company had to reallocate financial resources to obtain additional licenses. Furthermore, training schedules had to be set up in a way that doesn’t interrupt the workflow in different departments. In addition, we had to optimize our infrastructure, so that it could support the considerably higher number of users.”
+
+10. What is your experience level with NoSQL databases? Tell me about a situation where building a NoSQL database was a better solution than building a relational database.
+How to Answer
+There are certain pros and cons of using one type of database compared to another. To give the best possible answer, try to showcase your knowledge about each and back it up with an example situation that demonstrates how you have applied (or would apply) your know-how to a real-world project.
+
+Answer Example
+“Building a NoSQL database can be beneficial in some situations. Here’s a situation from my experience that first comes to my mind. When the franchise system in the company I worked for was increasing in size exponentially, we had to be able to scale up quickly in order to make the most of all the sales and operational data we had on hand.
+
+But here’s the thing. Scaling out is the better option, compared to scaling up with bigger servers, when it comes to handling increases data processing loads. Scaling out is also more cost-effective and it’s easier to accomplish through NoSQL databases. The latter can deal with larger volumes of data. And that can be crucial when you need to respond quickly to considerable shifts in data loads in the future. Yes, it’s true that relational databases have better connectivity to various analytics tools. However, as more of those are being developed, there’s definitely a lot more coming from NoSQL databases in the future. That said, the additional training some developers might need is certainly worth it.”
